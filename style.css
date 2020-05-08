@@ -69,44 +69,18 @@ background-color: #00428a ;width: 100%
    color: white;
    font-size: 14px;
  }
-/*-- Extra Bootstrap Column Padding --*/
+
 
 [class*="col-"] {
   padding: 1rem;
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*css of header of saylani*/
-
-
 .dropdown-menu .dropdown-item{
   display: flex;
   justify-content: space-between;
 }
-/* rotate caret on hover */
+
 .dropdown-menu > li > a:hover:after {
   text-decoration: underline;
   transform: rotate(-90deg);
@@ -139,21 +113,12 @@ background-color: #00428a ;width: 100%
   }
 
 
-/* 
-  <!--  Tab --> */
- 
-
-
-
-
 @media screen and (min-width:992px){
   .number_single-number{
      flex : 0 0 calc(25% -0.25rem)
      }
 }
 
-
- 
 
 @media screen and (min-width:768px){
 
